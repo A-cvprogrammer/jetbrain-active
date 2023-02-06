@@ -75,6 +75,19 @@ done. you'd better log off first!
 sh pycharm.sh
 ````
 
+## mac
+
+- pycharm.key -> jetbrain activate code
+- pycharm.sh -> shell
+
+```
+sh clion.sh
+```
+
+## win
+
+click choose ide.vbs
+
 
 
 ## Usage
