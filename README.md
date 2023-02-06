@@ -74,3 +74,15 @@ done. you'd better log off first!
 ````shell
 sh pycharm.sh
 ````
+
+
+
+## Usage
+
+- [docs](./docs/README.md): install tutorial
+
+
+
+## Disclaimers
+
+- [Disclaimers](./docs/Disclaimers.md)
